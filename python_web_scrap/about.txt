@@ -1,0 +1,29 @@
+This Python web scraper is a sophisticated tool that crawls company websites across the nutrition, probiotics, and health-related industries. By leveraging Selenium, BeautifulSoup, and in-house logic, it scans automatically and classifies critical company information.
+
+???? Major Features:
+Programmatic Website Scraping with Selenium for JavaScript-content rendering.
+
+Keyword Detection to find out whether a website is relevant to probiotics, gut health, or nutritional science.
+
+Category Classification (e.g., Food & Beverages, Pharmaceuticals, Biotechnology, etc.)
+
+Health Segment Detection like Gut Health, Women's Health, and Cognitive Health.
+
+Role Detection – Detects whether the company is a Manufacturer, Researcher, or Distributor.
+
+Contact Info Extraction – Copies emails, phone numbers, and even attempts to identify the country from website text.
+
+Error Handling – Solid fallback and logging if a site doesn't load or scrape.
+
+Export to Excel – Exports the entire dataset in an clean Excel spreadsheet.
+
+???? Use Case:
+Perfect for market research, competitive analysis, or industry mapping for the industries of:
+
+Probiotics
+
+Nutraceuticals
+
+Functional Foods
+
+Life Sciences & Health Technologies
